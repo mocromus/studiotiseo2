@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 222.21 141.94">
+  <defs>
+    <clipPath id="clippath">
+      <rect x="0" width="222.21" height="141.94" fill="none"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clippath)">
+    <path d="M15.12,88.33L0,103.45s39.05,46.82,71.07,101.12C71.07,204.57,141.19,78.4,222.21,0h-22.79s-58.36,39.78-128.34,128.34c0,0-33.74-26.66-55.95-40.02Z" fill="#507fd6"/>
+  </g>
+</svg>
